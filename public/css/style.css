@@ -1,0 +1,68 @@
+body{
+  margin:0;
+  display: grid;
+
+}
+div .title{
+  margin: 0;
+}
+.heading{
+  color:red;
+
+}
+footer{
+  text-align: center;
+}
+.title{
+  color: yellow;
+  font-size: 2rem;
+  text-align: center;
+  background-color: #B4E197;
+
+}
+ul{
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  margin-left:800px;
+  }
+
+a{
+  text-decoration: none;
+  color:#222;
+
+}
+.list-item{
+  margin-left:20px;
+  font-size: 2rem;
+}
+.nav-brand{
+  color:#827397;
+  font-size: 2rem;
+
+}
+
+#nav{
+  background-color: #B4E197;
+  padding: .03% 3%;
+}
+.testimonail{
+  text-align: center;
+  font-size: 1.2rem;
+  background-color:#FAFDD6;
+
+}
+.testimonail p{
+  line-height:1.5rem;
+  letter-spacing: .2px;
+  color:grey;
+}
+.anchor{
+  text-decoration:none;
+  color:grey;
+
+}
+.anchor:hover{
+  color:#363062;
+  transition:smooth;
+}
